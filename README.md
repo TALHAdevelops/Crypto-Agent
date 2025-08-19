@@ -32,10 +32,6 @@ You run the project and get an output on whether to invest or not.
 
 ▶️ Usage
 
-Clone the repo:
-
-git clone https://github.com/your-username/crypto-agent.git
-cd crypto-agent
 
 
 Install dependencies:
@@ -58,3 +54,4 @@ Make sure you have Python 3.8+ installed
 This project uses CoinGecko free API (no API key required)
 
 You can extend the agent with more trading logic and tools
+
